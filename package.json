@@ -25,12 +25,12 @@
   "main": "babel.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderyj22/suppermall.git"
+    "url": "git+https://github.com/smallerha/supermall.git"
   },
-  "author": "cyj",
+  "author": "smallerha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coderyj22/suppermall/issues"
+    "url": "https://github.com/smallerha/supermall/issues"
   },
-  "homepage": "https://github.com/coderyj22/suppermall#readme"
+  "homepage": "https://github.com/smallerha/supermall#readme"
 }
