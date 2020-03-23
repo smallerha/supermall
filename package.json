@@ -1,0 +1,36 @@
+{
+  "name": "suppermall",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "better-scroll": "^1.15.2",
+    "core-js": "^3.4.3",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderyj22/suppermall.git"
+  },
+  "author": "cyj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderyj22/suppermall/issues"
+  },
+  "homepage": "https://github.com/coderyj22/suppermall#readme"
+}
